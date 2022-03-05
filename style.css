@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #ffffff;
+    color: #244d4d;
+    height: 100vh;
+}
+.body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 15%;
+    text-align: center;
+}
+.body p {
+  padding: 10px 10px;
+}
+.head--text {
+    font-size: 3rem;
+}
+.head--message {
+    font-size: 1.4rem;
+    font-weight: lighter;
+}
+.head--end--text {
+    font-size: 2rem;
+    font-weight: lighter;
+}
+.cta {
+    font-weight: bold;
+    color: #ff9e00;
+}
+.signature {
+  color: #FF6D00;
+  font-weight: 400;
+  font-size: 5rem;
+}
+.text--vsr {
+  font-family: 'Sassy Frass', cursive;
+}
+.text--arts {
+  font-family: 'Stalemate', cursive;
+}
